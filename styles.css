@@ -45,7 +45,8 @@ a:hover {
     flex-direction: column;
     gap: 10px;
     max-width: 1200px;
-    margin: 20px 0px;
+    height: auto;
+    margin: 20px 0px 100px 0px;
     padding: 20px;
     background: #fff;
     border-radius: 5px;
